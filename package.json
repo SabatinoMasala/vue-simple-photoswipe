@@ -12,8 +12,7 @@
     "release": "yarn run lint && webpack --progress --hide-modules --config  ./build/webpack.release.conf.js && webpack --progress --hide-modules --config  ./build/webpack.release.min.conf.js"
   },
   "dependencies": {
-    "photoswipe": "^4.1.2",
-    "vue": "^2.4.2"
+    "vue-simple-photoswipe": "^1.0.1"
   },
   "repository": {
     "type": "git",
