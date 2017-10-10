@@ -4567,9 +4567,9 @@ vue-loader@^13.0.4:
     vue-style-loader "^3.0.0"
     vue-template-es2015-compiler "^1.5.3"
 
-vue-simple-photoswipe@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/vue-simple-photoswipe/-/vue-simple-photoswipe-1.0.1.tgz#b244032eee7a593cd20991caf64b0c7e5339343e"
+vue-simple-photoswipe@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vue-simple-photoswipe/-/vue-simple-photoswipe-1.0.2.tgz#d95c8b7fd62b9a4fbb4477b56c5e28aba2c9c2e5"
   dependencies:
     photoswipe "^4.1.2"
     vue "^2.4.2"
