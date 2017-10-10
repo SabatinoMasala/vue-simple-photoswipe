@@ -29,15 +29,15 @@
         data() {
             return {
                 images: [{
-                    src: '/static/image_1.jpeg',
+                    src: 'static/image_1.jpeg',
                     w: 5184,
                     h: 3456
                 }, {
-                    src: '/static/image_2.jpeg',
+                    src: 'static/image_2.jpeg',
                     w: 5101,
                     h: 3401
                 }, {
-                    src: '/static/image_3.jpeg',
+                    src: 'static/image_3.jpeg',
                     w: 3888,
                     h: 2592
                 }]
