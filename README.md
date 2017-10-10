@@ -1,6 +1,8 @@
 # Vue Simple Photoswipe
 Photoswipe plugin for Vue, based on [https://github.com/ymyang/vue-photoswipe](https://github.com/ymyang/vue-photoswipe).
 
+[Check out the demo](https://sabatinomasala.github.io/vue-simple-photoswipe/)
+
 ## Getting started
 
 ```
