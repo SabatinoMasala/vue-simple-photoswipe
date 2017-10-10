@@ -8,11 +8,10 @@
     "dev": "node build/dev-server.js",
     "start": "npm run dev",
     "build": "node build/build.js",
-    "lint": "eslint --ext .js,.vue src",
-    "release": "yarn run lint && webpack --progress --hide-modules --config  ./build/webpack.release.conf.js && webpack --progress --hide-modules --config  ./build/webpack.release.min.conf.js"
+    "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "vue-simple-photoswipe": "^1.0.2"
+    "vue-simple-photoswipe": "^1.0.3"
   },
   "repository": {
     "type": "git",
